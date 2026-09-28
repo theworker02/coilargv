@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/coilargv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Coil numeric argv values, ranges, and human-readable units.",
+  "bin": {
+    "coilargv": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/coilargv.git"
+  },
+  "homepage": "https://theworker02.github.io/coilargv/",
+  "keywords": [
+    "coil",
+    "argv",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
